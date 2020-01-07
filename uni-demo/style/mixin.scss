@@ -1,0 +1,5 @@
+
+$ratio: 375;
+@function px($px){
+  @return 750*$px/$ratio +upx
+}

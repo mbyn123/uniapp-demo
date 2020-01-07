@@ -1,0 +1,25 @@
+
+.content {
+		-webkit-box-pack:center;
+		-webkit-justify-content:center;
+		        justify-content:center;
+        -webkit-box-align: center;
+        -webkit-align-items: center;
+                align-items: center;
+}
+.view {
+		border: 1px solid green;
+		padding: 10px;
+		height: 100px;
+		overflow: hidden;
+		width: 100%;
+		white-space: nowrap;
+}
+.scroll-view-item {
+		display: inline-block;
+		width: 100px;
+		height: 100px;
+		background: red;
+		margin: 2px;
+}
+

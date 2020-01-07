@@ -1,0 +1,7 @@
+{
+  "titleNView": false,
+  "usingComponents": {
+    "hot": "/components/Hot/Hot",
+    "uni-rate": "/components/uni-rate/uni-rate"
+  }
+}

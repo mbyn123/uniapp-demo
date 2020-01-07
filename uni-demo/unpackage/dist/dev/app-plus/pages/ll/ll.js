@@ -1,0 +1,2 @@
+setCssToHead(["@charset \x22UTF-8\x22;\n.",[1],"active { background: #007AFF; }\n",],undefined,{path:"./pages/ll/ll.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/ll/ll.wxml') } }));

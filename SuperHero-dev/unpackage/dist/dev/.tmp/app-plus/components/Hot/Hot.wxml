@@ -1,0 +1,1 @@
+<view class="hot"><view class="hot-title"><image class="hot-title-img" src="{{imgSrc}}"></image><text class="hot-title-text">{{title}}</text></view><view><slot></slot></view></view>

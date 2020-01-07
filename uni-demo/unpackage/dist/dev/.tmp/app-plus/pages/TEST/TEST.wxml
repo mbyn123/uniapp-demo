@@ -1,0 +1,1 @@
+<view><image src="http://p2.music.126.net/7eM5kUB7RBbggMKAJTDrYQ==/92358976750427.jpg"></image><uni-icons vue-id="1" type="contact" size="30" bind:__l="__l"></uni-icons><uni-rate vue-id="2" size="18" value="5" bind:__l="__l"></uni-rate><view style="display:flex;"><view class="text">12131</view><view class="text">12131</view><view class="text">12131</view></view></view>

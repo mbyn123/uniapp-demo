@@ -1,0 +1,1 @@
+<view style="display:flex;flex-direction:column;text-align:center;"><image style="width:100%;" src="{{list.img}}"></image><text>{{list.name}}</text></view>
